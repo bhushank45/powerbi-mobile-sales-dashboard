@@ -21,7 +21,7 @@ This project is a Mobile Sales Data Dashboard created using Microsoft Power BI.
 - Business Intelligence Techniques
 
 ## 📷 Dashboard Preview
-!
+![Dashboard](Mobile_Sales_Dashboard_screenshot.png)
 
 ## 📚 Learning Source
 This project was created while learning Power BI through SkillCourse under the guidance of Satish Dhawale.
